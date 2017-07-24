@@ -1,5 +1,3 @@
-modifica
-
 Per aggiungere un nuovo utente, usare il comando useradd:
 
 useradd -m -g <nome_gruppo_iniziale> -G <nomi_gruppi_aggiuntivi> -s <login_shell> <nome_utente>
